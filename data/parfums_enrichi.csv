@@ -1,0 +1,30 @@
+Marque,Parfumeur,Année de lancement,Nom du Parfum,Notedominante,Epicee,Ambree,Boisee Mousse,Cuir,Aromatique,Florale,Hesperidee,Boisee,Florale Fraiche,Balsamique,Verte,Florale Rosee,Musquee,Fruitee,Florale Poudree,Marine,Fleur D'Oranger,Conifere Terpenique,Aldehydee
+Olfactive Studio,John Doe,2019.0,Chypre Shot,Epicee,3.0,1.6,1.0,0.7,1.5,0.0,0.0,0.85,0.0,0.6,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+Olfactive Studio,John Doe,2019.0,Flash Back in New York,Cuir,1.0,2.3,0.85,3.4,0.5,1.0,0.0,2.2,0.4,0.0,0.0,0.7,0.0,0.0,0.8,0.0,0.6,0.7,0.3
+Olfactive Studio,John Doe,2019.0,Still Life,Hesperidee,2.0,0.4,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.2000000000000002,0.0,0.0,1.7999999999999998,0.0,0.0,1.5,0.0,1.2000000000000002
+Olfactive Studio,John Doe,2019.0,Close Up,Fruitee,0.0,0.6,0.0,0.0,0.0,0.0,1.7999999999999998,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Aziri,John Doe,2019.0,Granita,Fruitee,0.0,0.6,0.0,0.0,0.0,0.0,1.7999999999999998,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Maison Violet,Nathalie Lorson,2019.0,Cycle 002,Epicee,3.0,1.2000000000000002,0.85,0.4,1.5,0.0,2.0,1.0,0.0,1.0,0.8,0.0,0.0,1.2,0.0,0.0,1.0,0.7,0.8
+Maison Violet,Nathalie Lorson,2019.0,Pour Rêver,Boisee,0.0,1.2,2.55,1.2000000000000002,0.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0999999999999996,0.0
+Maison Violet,Nathalie Lorson,2019.0,Abîme,Boisee,2.0,0.4,2.55,1.2000000000000002,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0999999999999996,0.0
+Maison Violet,Nathalie Lorson,2019.0,Un Air d'Apogée,Florale Poudree,0.0,1.6,0.0,0.7,0.0,2.4000000000000004,0.0,0.0,0.0,1.6,0.0,2.25,2.3,0.0,3.0,0.0,0.0,0.0,0.0
+Poecile,Patrice Revillard,2019.0,Mont Cristal,Florale Poudree,0.0,0.0,0.0,0.0,0.0,2.4000000000000004,0.0,0.0,0.0,0.0,0.0,2.25,1.7999999999999998,0.0,3.0,0.0,0.0,0.0,0.0
+Ilado,FLAIR,2019.0,To The Moon,Musquee,0.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,1.7999999999999998,0.0,0.0,0.0,0.0
+JUDITH PARIS,Jane Doe,2019.0,COL ROND,Musquee,0.0,1.5,0.85,0.4,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,1.7999999999999998,0.0,0.0,0.7,0.0
+JUDITH PARIS,Jane Doe,2019.0,TAILLE HAUTE (2022),Florale Fraiche,0.0,0.0,0.0,0.0,0.0,1.2000000000000002,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0999999999999996,0.0,0.0,0.8999999999999999
+JUDITH PARIS,Jane Doe,2019.0,OVERSIZE,Ambree,0.0,3.6,0.0,2.0999999999999996,0.0,1.0,0.0,0.0,0.4,2.8,0.0,0.7,1.5,0.0,0.8,0.0,0.6,0.0,0.3
+JUDITH PARIS,Jane Doe,2019.0,Créole ,Hesperidee,0.0,0.0,0.0,0.0,0.0,0.6,3.5,0.0,0.0,0.0,1.2000000000000002,0.0,0.0,1.7999999999999998,0.0,0.0,2.5,0.0,1.4000000000000001
+Scentception,Nadia Geyken Firenze,2024.0,Admire. The Beauty of Italy,Hesperidee,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.2000000000000002,0.0,0.0,1.7999999999999998,0.0,0.0,1.5,0.0,1.2000000000000002
+Scentception,Nadia Geyken Firenze,2024.0,Feel. The Charm of France,Boisee,1.0,0.2,2.55,1.2000000000000002,0.5,0.0,0.6,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0999999999999996,0.0
+Scentception,Nadia Geyken Firenze,2024.0,Try. The Magic of Bali,Epicee,3.0,1.2000000000000002,0.0,0.0,1.5,2.0,0.0,0.0,0.8,1.0,0.0,1.4,0.0,0.0,1.6,0.0,1.2,0.0,0.6
+Scentception,Nadia Geyken Firenze,2024.0,Listen. to the Heartbeat of Germany,Verte,0.0,0.0,0.0,0.0,0.0,1.0,1.2000000000000002,1.4,0.4,0.0,3.0,0.7,0.0,0.0,0.8,1.2000000000000002,0.6,2.0,0.9000000000000001
+Scentception,Nadia Geyken Firenze,2024.0,Touch. The Heritage of Ukraine,Aromatique,1.5,0.0,0.85,0.4,3.0,0.0,1.0,1.0,0.0,0.0,0.4,0.0,0.0,0.6,0.0,0.0,0.5,0.7,1.2999999999999998
+Fascent ,Elise Pierre,2023.0,L'EAU D'OR DORT,Fleur D'Oranger,0.0,0.5,0.0,0.0,0.0,1.7999999999999998,3.5,0.0,0.0,0.0,0.8,0.0,1.0,1.2,0.6,0.0,4.0,0.0,1.4000000000000001
+Fascent ,Elise Pierre,2023.0,RADICAL SOFTNESS,Musquee,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.7999999999999998,0.0,0.0,0.0,0.0
+Fascent ,Elise Pierre,2023.0,I FIG YOU,Verte,0.5,0.0,0.85,0.4,1.0,0.0,1.2000000000000002,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.2000000000000002,0.0,0.7,0.9000000000000001
+Fascent ,Elise Pierre,2023.0,SEL À VIE,Hesperidee,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.8,0.0,1.2000000000000002,1.4,0.0,1.7999999999999998,1.6,0.0,2.7,0.0,1.8000000000000003
+Fascent ,Elise Pierre,2023.0,MILKY NO WAY,Balsamique,0.0,1.7999999999999998,0.85,0.4,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0
+Parfumeurs du monde ,Stéphanie Bakouche,,Terre de Soleil ,Aromatique,1.5,1.0,0.0,0.7,3.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.8999999999999999
+Parfumeurs du monde ,Ellen DAHLGREN,,Tjärn ,Boisee,1.0,0.8,3.55,1.2000000000000002,0.5,0.0,0.6,3.85,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0999999999999996,0.0
+Parfumeurs du monde ,Thierry BERNARD,,Tsingy ,Hesperidee,1.0,0.8,0.0,0.0,0.5,1.0,3.0,0.0,0.4,1.0,1.2000000000000002,0.7,0.0,1.7999999999999998,0.8,0.0,2.1,0.0,1.5000000000000002
+Parfumeurs du monde ,Michel ROUDNITSKA,,Agua Nativa ,Epicee,3.5,0.6000000000000001,0.0,0.0,2.5,0.0,2.0,0.0,0.0,0.0,0.8,0.0,0.0,1.2,0.0,0.0,1.0,0.0,1.1
