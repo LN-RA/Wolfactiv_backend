@@ -84,10 +84,7 @@ def submit_quiz():
         u = get_vector_u(mbti, data_files["encoding_perso"])
         u_final = get_u_final(u)
 
-        radar_data = {
-            "labels": OLF_KEYS,
-            "values": u_final.tolist()
-        }
+     radar_data = [{"label": label, "value": float(round(val, 3))} for label, val in zip(OLF_KEYS, u_final)]
 
         top5 = get_top5_parfums(u_final, data_files["similarite_matrice"], data_files["parfums_df"])
 
